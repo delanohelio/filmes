@@ -1,7 +1,7 @@
 <template>
   <div class="movie-card">
     <h3>{{ filme.titulo }}</h3>
-    <p class="director">Diretor: {{ filme.diretor }}</p>
+    <p class="director">O nome do Diretor: {{ filme.diretor }}</p>
     <p class="year">Ano: {{ filme.ano }}</p>
     <button>Editar</button>
     <button>Deletar</button>
