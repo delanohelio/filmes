@@ -2,7 +2,7 @@
   <div class="movie-card">
     <h3>{{ filme.titulo }}</h3>
     <p class="director">Diretor: {{ filme.diretor }}</p>
-    <p class="year">Ano: {{ filme.ano }}</p>
+    <p class="year">Ano do filme: {{ filme.ano }}</p>
     <button>Editar</button>
     <button>Deletar</button>
   </div>
