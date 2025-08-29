@@ -19,8 +19,6 @@ import FilmeCard from './components/FilmeCard.vue';
 
 const filmes = ref([]);
 
-const a = ref()
-
  function carregarFilmes() {
   filmes.value = [
   { id: 1, titulo: 'Interestelar', diretor: 'Christopher Nolan', ano: 2014 },
