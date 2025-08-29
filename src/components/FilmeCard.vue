@@ -3,6 +3,7 @@
     <h3>{{ filme.titulo }}</h3>
     <p class="director">Diretor: {{ filme.diretor }}</p>
     <p class="year">Ano: {{ filme.ano }}</p>
+    <button>Deletar</button>
   </div>
 </template>
 
