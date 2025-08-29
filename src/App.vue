@@ -22,7 +22,7 @@ const filmes = ref([]);
  function carregarFilmes() {
   filmes.value = [
   { id: 1, titulo: 'Interestelar', diretor: 'Christopher Nolan', ano: 2014 },
-  { id: 2, titulo: 'Parasita', diretor: 'Bong Joon Ho', ano: 2019 },
+  { id: 2, titulo: 'parasita', diretor: 'Bong Joon Ho', ano: 2019 },
   { id: 3, titulo: 'Cidade de Deus', diretor: 'Fernando Meirelles', ano: 2002 },
   { id: 4, titulo: 'O Poderoso Chefão', diretor: 'Francis Ford Coppola', ano: 1972 }
 ];
