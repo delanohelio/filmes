@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <header>
-      <h1>🎬 Meu Catálogo de Filmes</h1>
+      <h1>🎬 Meu Catálogo de Filmes Favoritos</h1>
     </header>
 
     <main class="movie-list">
